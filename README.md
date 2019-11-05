@@ -73,7 +73,7 @@ To be published.
 
 >	National key laboratory of plant stress biology
 
->	molecular biology
+>	Insect molecular biology
 
 >	Henan University
 
@@ -83,7 +83,7 @@ To be published.
 
 ## Copyright
 
-Copyright (c) 2019-2021 Jia-qi Yun
+Copyright (c) 2019-2022 Jia-qi Yun
 
 Under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
